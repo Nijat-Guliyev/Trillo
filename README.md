@@ -20,4 +20,4 @@ If you like hotel at the end, recommend it to your relatives.
 
 ## Author
 
-Created by [Nijat](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
+Modified by [Nijat](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
